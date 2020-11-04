@@ -70,11 +70,11 @@ Additional resources:
 
 [10/12 Distribution (Ch8)](https://docs.google.com/presentation/d/1x9fRYL5vqiDJyR1di8I0C4_YLd4gyMJ3rJf9O8YR3kw/edit?usp=sharing)
 
-10/19 Data visualization in practice (Ch9) and BrainSpan Tutorials
+10/19 Data visualization in practice (Ch9) and Tutorials
 
-10/26 Data visualization principles (Ch10) and BrainSpan Tutorials
+10/26 Data visualization principles (Ch10) and Tutorials
 
-10/26 Data visualization principles (Ch10) and BrainSpan Tutorials
+10/26 Data visualization principles (Ch10) and Tutorials
 
 11/9 Mid term
 
